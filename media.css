@@ -198,6 +198,7 @@
     border-radius: 1rem;
     /* max-height: none; */
     margin: 1rem;
+    transform: scale(.9);
   }
 
   .registration-form {
